@@ -1,0 +1,6 @@
+This archive contains all current source and documentation.
+GitHub upload was blocked by the connector with HTTP 403; the source is not yet in Site-n1.
+To restore the saved Git history in a separate directory:
+git clone tiltkid-history.bundle tiltkid-restored
+Read README.md or docs/README.fa.md for local setup and extension.
+Do not upload the .bundle file as website content; publish only dist/.

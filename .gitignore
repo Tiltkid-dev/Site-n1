@@ -1,0 +1,17 @@
+# dist/ is authored source and MUST remain tracked.
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+*.tar.gz
+*.bundle
+.vscode/
+.idea/
